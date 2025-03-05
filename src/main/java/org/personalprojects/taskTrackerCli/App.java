@@ -1,8 +1,5 @@
-package org.personalprojects.task-tracker-cli;
+package org.personalprojects.taskTrackerCli;
 
-/**
- * Hello world!
- */
 public class App {
     public static void main(String[] args) {
         System.out.println("Hello World!");
